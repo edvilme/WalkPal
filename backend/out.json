@@ -1,0 +1,878 @@
+[
+    {
+        "bounds": {
+            "northeast": {
+                "lat": 19.4169663,
+                "lng": -99.25215709999999
+            },
+            "southwest": {
+                "lat": 19.3971968,
+                "lng": -99.2844056
+            }
+        },
+        "copyrights": "Map data \u00a92022 INEGI",
+        "legs": [
+            {
+                "distance": {
+                    "text": "5.0 km",
+                    "value": 4993
+                },
+                "duration": {
+                    "text": "1 hour 12 mins",
+                    "value": 4310
+                },
+                "end_address": "Vialidad de la Barranca 6, Col. Ex Hacienda Jes\u00fas del Monte, Valle de las Palmas, 52763 Naucalpan de Ju\u00e1rez, M\u00e9x., Mexico",
+                "end_location": {
+                    "lat": 19.3974444,
+                    "lng": -99.2835721
+                },
+                "start_address": "Cda. de Las Huertas 9, Lomas de la Herradura, 52785 Naucalpan de Ju\u00e1rez, M\u00e9x., Mexico",
+                "start_location": {
+                    "lat": 19.4169663,
+                    "lng": -99.25215709999999
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "72 m",
+                            "value": 72
+                        },
+                        "duration": {
+                            "text": "2 mins",
+                            "value": 127
+                        },
+                        "end_location": {
+                            "lat": 19.4168643,
+                            "lng": -99.2528339
+                        },
+                        "html_instructions": "Head <b>west</b> on <b>Cda. de Las Huertas</b> toward <b>Huertas</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+                        "polyline": {
+                            "points": "akouB~dx|QJhADd@BT"
+                        },
+                        "start_location": {
+                            "lat": 19.4169663,
+                            "lng": -99.25215709999999
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "30 m",
+                            "value": 30
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 67
+                        },
+                        "end_location": {
+                            "lat": 19.4165983,
+                            "lng": -99.25282109999999
+                        },
+                        "html_instructions": "Turn <b>left</b> to stay on <b>Cda. de Las Huertas</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "kjouBdix|QTA\\?"
+                        },
+                        "start_location": {
+                            "lat": 19.4168643,
+                            "lng": -99.2528339
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "2.5 km",
+                            "value": 2525
+                        },
+                        "duration": {
+                            "text": "35 mins",
+                            "value": 2111
+                        },
+                        "end_location": {
+                            "lat": 19.4051924,
+                            "lng": -99.2706259
+                        },
+                        "html_instructions": "Turn <b>right</b> onto <b>P.\u00ba de la Herradura</b>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "whouBbix|QKx@CNAJ?P?F@J@X?H@ZFpA@^B\\DJ@JFNNVJPXXbAfAPPNHB@HBLBNB\\Al@?r@?F@F?JDFDHDXVt@p@`@^XVPPNNLNJNLPHNDHDJDNDNFT@HDFFLFHPR`@h@RZHNDNDNHp@BN@J@DDJDHFJJJRR@@`@^TVLRHd@DRBRLn@@\\?X?R?LCr@EXERALAL@L?NBJDLBHFLHNjAnB|@|AT\\BH@D@H@L?B?n@BJBHBHDFFFHHHFFBJJFHBDDF@HDHx@|Cf@jBFRFPJVLZP`@JTJXCB?@AB?@A@?@?B?@?@?B?@?@@BBFDD@B@?B@@?@@@?@?B@@?@?@AB?BATXl@~@DFj@`A\\l@^j@JLNNfAh@XLLFNJlAz@dAt@^b@ZTTTPRFLBHFVFd@LpBJ|AH`@BJFN?@FLBFJHHBLDH@JAB?NCNGFEBABCBCBCj@m@FE"
+                        },
+                        "start_location": {
+                            "lat": 19.4165983,
+                            "lng": -99.25282109999999
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "17 m",
+                            "value": 17
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 16
+                        },
+                        "end_location": {
+                            "lat": 19.4050588,
+                            "lng": -99.27071269999999
+                        },
+                        "html_instructions": "Turn <b>right</b> toward <b>Parque de C\u00e1diz</b>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "mamuBlx{|QXN"
+                        },
+                        "start_location": {
+                            "lat": 19.4051924,
+                            "lng": -99.2706259
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.1 km",
+                            "value": 115
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 78
+                        },
+                        "end_location": {
+                            "lat": 19.4054807,
+                            "lng": -99.27164739999999
+                        },
+                        "html_instructions": "Turn <b>right</b> onto <b>Parque de C\u00e1diz</b>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "s`muB|x{|Q?t@Gb@AHCHCDINKJKFKHEFMP"
+                        },
+                        "start_location": {
+                            "lat": 19.4050588,
+                            "lng": -99.27071269999999
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "26 m",
+                            "value": 26
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 29
+                        },
+                        "end_location": {
+                            "lat": 19.4054134,
+                            "lng": -99.2718824
+                        },
+                        "html_instructions": "Turn <b>left</b> at <b>Blvd. Magnocentro</b>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "gcmuBx~{|Q?F?DBHHT"
+                        },
+                        "start_location": {
+                            "lat": 19.4054807,
+                            "lng": -99.27164739999999
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "75 m",
+                            "value": 75
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 73
+                        },
+                        "end_location": {
+                            "lat": 19.4047442,
+                            "lng": -99.27181879999999
+                        },
+                        "html_instructions": "Turn <b>left</b> onto <b>Blvd. Magnocentro</b>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "ybmuBf`||QVCbAGh@?"
+                        },
+                        "start_location": {
+                            "lat": 19.4054134,
+                            "lng": -99.2718824
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "21 m",
+                            "value": 21
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 19
+                        },
+                        "end_location": {
+                            "lat": 19.4046757,
+                            "lng": -99.2720042
+                        },
+                        "html_instructions": "Turn <b>right</b>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "s~luBz_||QJb@"
+                        },
+                        "start_location": {
+                            "lat": 19.4047442,
+                            "lng": -99.27181879999999
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.2 km",
+                            "value": 231
+                        },
+                        "duration": {
+                            "text": "3 mins",
+                            "value": 162
+                        },
+                        "end_location": {
+                            "lat": 19.4026525,
+                            "lng": -99.2724829
+                        },
+                        "html_instructions": "Turn <b>left</b>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "g~luB~`||QJ@J@xCj@J@x@Lb@FB?l@HfAL"
+                        },
+                        "start_location": {
+                            "lat": 19.4046757,
+                            "lng": -99.2720042
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "66 m",
+                            "value": 66
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 50
+                        },
+                        "end_location": {
+                            "lat": 19.402581,
+                            "lng": -99.27308010000002
+                        },
+                        "html_instructions": "Turn <b>right</b> toward <b>Av. Lomas An\u00e1huac</b>/<wbr/><b>Via Magna</b>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "qqluB~c||QFJ@BBB@H@B?HAH?H?JAJ?L?D?J"
+                        },
+                        "start_location": {
+                            "lat": 19.4026525,
+                            "lng": -99.2724829
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "6 m",
+                            "value": 6
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 5
+                        },
+                        "end_location": {
+                            "lat": 19.4025289,
+                            "lng": -99.27309989999999
+                        },
+                        "html_instructions": "Turn <b>left</b> toward <b>Av. Lomas An\u00e1huac</b>/<wbr/><b>Via Magna</b>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "cqluBvg||QHB"
+                        },
+                        "start_location": {
+                            "lat": 19.402581,
+                            "lng": -99.27308010000002
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.5 km",
+                            "value": 478
+                        },
+                        "duration": {
+                            "text": "6 mins",
+                            "value": 386
+                        },
+                        "end_location": {
+                            "lat": 19.4012145,
+                            "lng": -99.2769709
+                        },
+                        "html_instructions": "Turn <b>right</b> onto <b>Av. Lomas An\u00e1huac</b>/<wbr/><b>Via Magna</b><div style=\"font-size:0.9em\">Continue to follow Via Magna</div>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "ypluBzg||QAh@Ah@?D@F@FDRI|B?^ChAAjA?TBT?D@J@FFV@BFPFJ@BDHNRPZ@BBBd@t@VPHFTNXRRHNDD@\\F"
+                        },
+                        "start_location": {
+                            "lat": 19.4025289,
+                            "lng": -99.27309989999999
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.1 km",
+                            "value": 99
+                        },
+                        "duration": {
+                            "text": "2 mins",
+                            "value": 118
+                        },
+                        "end_location": {
+                            "lat": 19.4005745,
+                            "lng": -99.27762729999999
+                        },
+                        "html_instructions": "<b>Via Magna</b> turns slightly <b>right</b> and becomes <b>Interlomas</b>/<wbr/><b>Vialidad de la Barranca</b>",
+                        "polyline": {
+                            "points": "qhluB``}|QPTDDFFJJXZZ^\\V"
+                        },
+                        "start_location": {
+                            "lat": 19.4012145,
+                            "lng": -99.2769709
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.2 km",
+                            "value": 195
+                        },
+                        "duration": {
+                            "text": "3 mins",
+                            "value": 177
+                        },
+                        "end_location": {
+                            "lat": 19.3997248,
+                            "lng": -99.2791956
+                        },
+                        "html_instructions": "Slight <b>right</b> onto <b>Interlomas</b>/<wbr/><b>Av. Palma D\u00e1til</b>",
+                        "maneuver": "turn-slight-right",
+                        "polyline": {
+                            "points": "qdluBdd}|Q?LBDPTb@h@h@|@NZP\\Td@JV@H?LAL@H"
+                        },
+                        "start_location": {
+                            "lat": 19.4005745,
+                            "lng": -99.27762729999999
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "22 m",
+                            "value": 22
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 18
+                        },
+                        "end_location": {
+                            "lat": 19.3995521,
+                            "lng": -99.2791342
+                        },
+                        "html_instructions": "Turn <b>left</b> toward <b>Av. Palma D\u00e1til</b>/<wbr/><b>Residencial la Cima</b>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "g_luB~m}|QJ?B?B?BADCBG"
+                        },
+                        "start_location": {
+                            "lat": 19.3997248,
+                            "lng": -99.2791956
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "39 m",
+                            "value": 39
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 40
+                        },
+                        "end_location": {
+                            "lat": 19.3995052,
+                            "lng": -99.27950799999999
+                        },
+                        "html_instructions": "Turn <b>right</b> onto <b>Av. Palma D\u00e1til</b>/<wbr/><b>Residencial la Cima</b>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "e~kuBpm}|Q@HBZ@d@"
+                        },
+                        "start_location": {
+                            "lat": 19.3995521,
+                            "lng": -99.2791342
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.1 km",
+                            "value": 133
+                        },
+                        "duration": {
+                            "text": "2 mins",
+                            "value": 95
+                        },
+                        "end_location": {
+                            "lat": 19.3984599,
+                            "lng": -99.2800286
+                        },
+                        "html_instructions": "Turn <b>left</b> toward <b>Vialidad de la Barranca</b>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "}}kuB|o}|QLCHCB?D?B@BBRLlAt@^Td@N"
+                        },
+                        "start_location": {
+                            "lat": 19.3995052,
+                            "lng": -99.27950799999999
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.2 km",
+                            "value": 154
+                        },
+                        "duration": {
+                            "text": "2 mins",
+                            "value": 116
+                        },
+                        "end_location": {
+                            "lat": 19.3972951,
+                            "lng": -99.2808003
+                        },
+                        "html_instructions": "Continue onto <b>Vialidad de la Barranca</b>",
+                        "polyline": {
+                            "points": "kwkuBds}|Q|B|AHHf@XD@HFLDLBJB"
+                        },
+                        "start_location": {
+                            "lat": 19.3984599,
+                            "lng": -99.2800286
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "20 m",
+                            "value": 20
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 19
+                        },
+                        "end_location": {
+                            "lat": 19.3973247,
+                            "lng": -99.2809827
+                        },
+                        "html_instructions": "Turn <b>right</b>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "cpkuB~w}|QA^A??B"
+                        },
+                        "start_location": {
+                            "lat": 19.3972951,
+                            "lng": -99.2808003
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "building_level": {
+                            "number": -2
+                        },
+                        "distance": {
+                            "text": "30 m",
+                            "value": 30
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 41
+                        },
+                        "end_location": {
+                            "lat": 19.397205,
+                            "lng": -99.28123079999999
+                        },
+                        "html_instructions": "Walk for 30&nbsp;m",
+                        "polyline": {
+                            "points": "gpkuBby}|QDTPX?@"
+                        },
+                        "start_location": {
+                            "lat": 19.3973247,
+                            "lng": -99.2809827
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "building_level": {
+                            "number": -2
+                        },
+                        "distance": {
+                            "text": "11 m",
+                            "value": 11
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 18
+                        },
+                        "end_location": {
+                            "lat": 19.3973036,
+                            "lng": -99.28121589999999
+                        },
+                        "html_instructions": "Take the escalator <b>up</b> to -1",
+                        "polyline": {
+                            "points": "ookuBtz}|QSA"
+                        },
+                        "start_location": {
+                            "lat": 19.397205,
+                            "lng": -99.28123079999999
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "building_level": {
+                            "number": -1
+                        },
+                        "distance": {
+                            "text": "14 m",
+                            "value": 14
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 20
+                        },
+                        "end_location": {
+                            "lat": 19.3972094,
+                            "lng": -99.2812555
+                        },
+                        "html_instructions": "Walk for 14&nbsp;m",
+                        "polyline": {
+                            "points": "cpkuBrz}|QA@?BH?H@"
+                        },
+                        "start_location": {
+                            "lat": 19.3973036,
+                            "lng": -99.28121589999999
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "building_level": {
+                            "number": -1
+                        },
+                        "distance": {
+                            "text": "11 m",
+                            "value": 11
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 18
+                        },
+                        "end_location": {
+                            "lat": 19.3973051,
+                            "lng": -99.28124269999999
+                        },
+                        "html_instructions": "Take the escalator <b>up</b> to 0",
+                        "polyline": {
+                            "points": "qokuBzz}|QSC"
+                        },
+                        "start_location": {
+                            "lat": 19.3972094,
+                            "lng": -99.2812555
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "building_level": {
+                            "number": 0
+                        },
+                        "distance": {
+                            "text": "14 m",
+                            "value": 14
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 20
+                        },
+                        "end_location": {
+                            "lat": 19.3971963,
+                            "lng": -99.2812481
+                        },
+                        "html_instructions": "Walk for 14&nbsp;m",
+                        "polyline": {
+                            "points": "epkuBvz}|Q@@R@?A"
+                        },
+                        "start_location": {
+                            "lat": 19.3973051,
+                            "lng": -99.28124269999999
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "building_level": {
+                            "number": 0
+                        },
+                        "distance": {
+                            "text": "14 m",
+                            "value": 14
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 22
+                        },
+                        "end_location": {
+                            "lat": 19.3973168,
+                            "lng": -99.2812311
+                        },
+                        "html_instructions": "Take the escalator <b>up</b> to the 1st floor",
+                        "polyline": {
+                            "points": "ookuBxz}|QWC"
+                        },
+                        "start_location": {
+                            "lat": 19.3971963,
+                            "lng": -99.2812481
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "building_level": {
+                            "number": 1
+                        },
+                        "distance": {
+                            "text": "0.1 km",
+                            "value": 115
+                        },
+                        "duration": {
+                            "text": "2 mins",
+                            "value": 91
+                        },
+                        "end_location": {
+                            "lat": 19.3976389,
+                            "lng": -99.2821481
+                        },
+                        "html_instructions": "Walk for 120&nbsp;m",
+                        "polyline": {
+                            "points": "gpkuBtz}|QCH?@?B?B?@?B@D?B@B?@?@@B?@@@@@@RANAL?B?BABABAB?BA@ABABA@CBABA@A?k@`@"
+                        },
+                        "start_location": {
+                            "lat": 19.3973168,
+                            "lng": -99.2812311
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "building_level": {
+                            "number": 1
+                        },
+                        "distance": {
+                            "text": "14 m",
+                            "value": 14
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 22
+                        },
+                        "end_location": {
+                            "lat": 19.3977481,
+                            "lng": -99.2822192
+                        },
+                        "html_instructions": "Take the escalator <b>up</b> to the 2nd floor",
+                        "polyline": {
+                            "points": "grkuBl`~|QUL"
+                        },
+                        "start_location": {
+                            "lat": 19.3976389,
+                            "lng": -99.2821481
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "building_level": {
+                            "number": 2
+                        },
+                        "distance": {
+                            "text": "0.1 km",
+                            "value": 98
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 85
+                        },
+                        "end_location": {
+                            "lat": 19.3980761,
+                            "lng": -99.28296429999999
+                        },
+                        "html_instructions": "Walk for 98&nbsp;m",
+                        "polyline": {
+                            "points": "}rkuBz`~|QAF?@ET}@p@GRJl@"
+                        },
+                        "start_location": {
+                            "lat": 19.3977481,
+                            "lng": -99.2822192
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "78 m",
+                            "value": 78
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 56
+                        },
+                        "end_location": {
+                            "lat": 19.3977413,
+                            "lng": -99.2834636
+                        },
+                        "html_instructions": "Head <b>southwest</b>",
+                        "polyline": {
+                            "points": "_ukuBne~|QHR\\@ZP?z@"
+                        },
+                        "start_location": {
+                            "lat": 19.3980761,
+                            "lng": -99.28296429999999
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "42 m",
+                            "value": 42
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 30
+                        },
+                        "end_location": {
+                            "lat": 19.397476,
+                            "lng": -99.283706
+                        },
+                        "html_instructions": "Turn <b>left</b> toward <b>P.\u00ba Interlomas</b>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "{rkuBrh~|QR@^n@"
+                        },
+                        "start_location": {
+                            "lat": 19.3977413,
+                            "lng": -99.2834636
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "87 m",
+                            "value": 87
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 82
+                        },
+                        "end_location": {
+                            "lat": 19.3979412,
+                            "lng": -99.2843733
+                        },
+                        "html_instructions": "Continue onto <b>P.\u00ba Interlomas</b>",
+                        "polyline": {
+                            "points": "gqkuBdj~|Q]f@S\\i@|@"
+                        },
+                        "start_location": {
+                            "lat": 19.397476,
+                            "lng": -99.283706
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "11 m",
+                            "value": 11
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 9
+                        },
+                        "end_location": {
+                            "lat": 19.3978434,
+                            "lng": -99.2844056
+                        },
+                        "html_instructions": "Turn <b>left</b> toward <b>Entronque Interlomas</b>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "ctkuBhn~|QRF"
+                        },
+                        "start_location": {
+                            "lat": 19.3979412,
+                            "lng": -99.2843733
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.1 km",
+                            "value": 111
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 76
+                        },
+                        "end_location": {
+                            "lat": 19.3972746,
+                            "lng": -99.28353369999999
+                        },
+                        "html_instructions": "Turn <b>left</b> onto <b>Entronque Interlomas</b>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "oskuBpn~|Q\\s@LUl@gAV]"
+                        },
+                        "start_location": {
+                            "lat": 19.3978434,
+                            "lng": -99.2844056
+                        },
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "19 m",
+                            "value": 19
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 14
+                        },
+                        "end_location": {
+                            "lat": 19.3974444,
+                            "lng": -99.2835721
+                        },
+                        "html_instructions": "Sharp <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                        "maneuver": "turn-sharp-left",
+                        "polyline": {
+                            "points": "}okuB`i~|Qa@F"
+                        },
+                        "start_location": {
+                            "lat": 19.3972746,
+                            "lng": -99.28353369999999
+                        },
+                        "travel_mode": "WALKING"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            }
+        ],
+        "overview_polyline": {
+            "points": "akouB~dx|QPnBBTTA\\?Kx@EZB~@JvCHh@HZZh@|A`B`@ZLD\\FjAAz@@RDPJnAhA|AxAp@`AVt@H^LTnAbBN^N`ALl@LT^^b@`@b@j@`@|B@xAIlAG`@?ZBZZt@bDtFD`@?n@BJFR`@`@RNJNfAxDn@~BRh@v@lBGT?HLTRDJCbAxAp@hA|@xAZ\\~BjArCpB^b@ZTf@h@JVN|@XnET~@JTTLVFNA^KJGv@y@FEXN?t@Gb@ERMTi@d@MP?FBNHTVClBGJb@J@dDl@lBVtBVHNFZA^Aj@HBAh@An@BNDRI|BChBA`BFn@HZN\\h@|@DFd@t@VP^Vl@\\TF\\FPTLLd@f@Z^\\VBRt@~@x@xAf@bAL`@AZ@HJ?F?HEBG@HD`A`@GhBhA^Td@NfCfBdAh@XFC^DXPZU??BH?H@SCTBWECRDZBD?b@APENELGHeAp@G^}@p@GRJl@HR\\@ZP?z@R@^n@q@dAi@|@RFj@iAdAeBa@F"
+        },
+        "summary": "P.\u00ba de la Herradura",
+        "warnings": [
+            "Walking directions are in beta. Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+        ],
+        "waypoint_order": []
+    }
+]
